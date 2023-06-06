@@ -1,0 +1,2 @@
+jsonrpcserver==5.0.9
+jsonrpclib-pelix==0.4.3.2
